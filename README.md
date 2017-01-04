@@ -1,6 +1,7 @@
 # CUE RGB Profiles
 A collection of profiles for Corsair RGB peripherals. Designed on a K95 RGB keyboard.
 
+`NOTE: These profiles require "Advanced" to be enabled.`
 
 ### Nightblade
 A smooth and striking slash from the lightsword of a Nightblade.
