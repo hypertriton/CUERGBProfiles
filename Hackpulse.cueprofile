@@ -1112,13 +1112,21 @@
 																									<color>#ff000000</color>
 																								</value3>
 																								<value4>
-																									<time>0.95882352941176474</time>
+																									<time>0.97843137254901957</time>
 																									<color>#ff000000</color>
 																								</value4>
 																								<value5>
-																									<time>1</time>
+																									<time>0.98039215686274506</time>
 																									<color>#fffcfcfc</color>
 																								</value5>
+																								<value6>
+																									<time>0.9882352941176471</time>
+																									<color>#ff000000</color>
+																								</value6>
+																								<value7>
+																									<time>1</time>
+																									<color>#fffcfcfc</color>
+																								</value7>
 																							</transitions>
 																						</data>
 																					</ptr_wrapper>
